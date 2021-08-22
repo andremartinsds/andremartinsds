@@ -4,7 +4,7 @@ I'm Andre.
 
 - 🔭 I’m currently working on [eNe](http://www.enesolucoes.com.br/)
 - 🌱 I’m currently learning on improving myself
-- 💬 Ask me about my open source projects
+- 💬 Ask me about my projects
 - 📫 How to reach me: [E-mail](mailto:andremartinsdsilva@gmail.com)
 - 😄 Pronouns: Whatever you like
 - ⚡ Fun fact: I like to sleep, study and play chess.

@@ -10,8 +10,8 @@ I'm Andre.
 - ⚡ Fun fact: I like to sleep, study and play chess.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=andremartds&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=andremartds&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartds" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartds&theme=midnight-purple" />
 </a>

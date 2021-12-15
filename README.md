@@ -13,5 +13,5 @@ I'm Andre.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andremartds&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartds&theme=midnight-purple" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartds&theme=midnight-purple&exclude_repo=react_native_github" />
 </a>

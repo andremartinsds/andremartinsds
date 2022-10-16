@@ -4,7 +4,4 @@
     <a href="https://www.linkedin.com/in/andremartds/" __target="blank">
         <img src="https://img.shields.io/badge/Linkedin-Andr%C3%A9%20Martins-blue"/>
     </a>
-     <a href="https://andremart.com" __target="blank">
-        <img src="https://img.shields.io/badge/Site-Andr%C3%A9%20Martins-green"/>
-    </a>
 </p>

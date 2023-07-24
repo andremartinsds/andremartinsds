@@ -17,11 +17,11 @@
   <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23DD0031.svg?&logo=nestjs&style=for-the-badge" /><br/>
   <img alt="JEST" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
-<h4 align="center">Frontend</h4>
+<!-- <h4 align="center">Frontend</h4>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
+</p> -->
 
 <h4 align="center">Tools</h4>
   <p align="center">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm André Martins</h1>
 
-- 👨‍💻 Blog [https://amartds.github.io](https://amartds.github.io/)
+- 👨‍💻 Blog [https://andremartinsds.github.io](https://andremartinsds.github.io/)
 
 - 📫 como falar comigo **andremartinsdsilva@gmail.com**
 
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/andremartds/" __target="blank">
+    <a href="https://www.linkedin.com/in/andremartinsds/" __target="blank">
         <img src="https://img.shields.io/badge/Linkedin-Andr%C3%A9%20Martins-blue"/>
     </a>
 </p>

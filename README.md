@@ -2,8 +2,6 @@
 
 - 👨‍💻 Blog [https://andremartinsds.github.io](https://andremartinsds.github.io/)
 
-- 📫 como falar comigo **andremartinsdsilva@gmail.com**
-
 <h3 align="center">
   Profiles
 </h3>

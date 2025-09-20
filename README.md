@@ -9,7 +9,7 @@
 
 <h4 align="center">Backend</h4>
 <p align="center">
-  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23DD0031.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>

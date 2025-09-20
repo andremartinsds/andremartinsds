@@ -38,7 +38,7 @@
 <h3 align="center">🚀 Projeto Pessoal</h3>
 <p align="center">
   <a href="https://evisor.com.br"><b>evisor.com.br</b></a>  
-  <a href="https://app.evisor.com.br"><b>app.evisor.com.br</b></a>
+  <a href="https://admin.evisor.com.br"><b>app.evisor.com.br</b></a>
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o André Martins</h1>
+<h1 align="center">André Martins</h1>
 <h3 align="center">Desenvolvedor Backend | APIs | Sistemas Distribuídos</h3>
 
 ---
@@ -11,8 +11,8 @@
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23DD0031.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
@@ -37,9 +37,8 @@
 
 <h3 align="center">🚀 Projeto Pessoal</h3>
 <p align="center">
-  No meu tempo livre, trabalho no <a href="https://evisor.com.br"><b>evisor.com.br</b></a>,  
-  um sistema ERP simples e acessível, desenvolvido para atender micro e pequenas empresas no Brasil.  
-  O projeto é privado, mas estou sempre aberto para trocar ideias e apresentar a iniciativa.  
+  <a href="https://evisor.com.br"><b>evisor.com.br</b></a>  
+  <a href="https://app.evisor.com.br"><b>app.evisor.com.br</b></a>
 </p>
 
 ---
